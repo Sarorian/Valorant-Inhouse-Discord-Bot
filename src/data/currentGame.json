@@ -1,0 +1,160 @@
+{
+  "team1": [
+    {
+      "discordDisplayName": "spzzzyyy",
+      "discordUsername": "spzzzyyy",
+      "discordId": "280888615133773834",
+      "puuid": "01f14f2e-e886-5b6f-a964-c2f77f7ca075",
+      "user": "spZzZyyy",
+      "tag": "sleep",
+      "score": {
+        "sp": 500,
+        "w": 0,
+        "l": 0
+      },
+      "rank": "Immortal 2",
+      "mmr": 2277
+    },
+    {
+      "discordDisplayName": "sarorian",
+      "discordUsername": "sarorian",
+      "discordId": "235945490884067328",
+      "puuid": "e2c0c718-a79b-5444-974b-4a230745cf38",
+      "user": "Sarorian",
+      "tag": "NA1",
+      "score": {
+        "sp": 443,
+        "w": 0,
+        "l": 2
+      },
+      "rank": "Silver 3",
+      "mmr": 899
+    },
+    {
+      "discordUsername": "wuzzleite",
+      "discordId": "541098158193770507",
+      "discordDisplayName": "Wuzzleite",
+      "puuid": "cece1c04-291b-5470-b401-f99374abb5c1",
+      "user": "CSM KΛTΛRΛ",
+      "tag": "mines",
+      "score": {
+        "sp": 443,
+        "w": 0,
+        "l": 2
+      },
+      "rank": "Platinum 2",
+      "mmr": 1372
+    },
+
+    {
+      "discordDisplayName": "littlepanckes",
+      "discordUsername": "littlepanckes",
+      "discordId": "354439675198439425",
+      "puuid": "75b96f2d-0458-509f-ae74-685534476740",
+      "user": "littlepanckes",
+      "tag": "LOSER",
+      "score": {
+        "sp": 500,
+        "w": 0,
+        "l": 0
+      },
+      "rank": "Iron 3",
+      "mmr": 255
+    },
+    {
+      "discordUsername": "inspiringpotato",
+      "discordId": "269687355156201472",
+      "discordDisplayName": "InspiringPotato",
+      "puuid": "a200cf03-30ec-5f98-9ee6-7941778ee290",
+      "user": "InspiringPotato",
+      "tag": "9660",
+      "score": {
+        "sp": 557,
+        "w": 2,
+        "l": 0
+      },
+      "rank": "Ascendant 3",
+      "mmr": 2011
+    }
+  ],
+  "team2": [
+    {
+      "discordUsername": "ronan8",
+      "discordId": "411729616097509377",
+      "discordDisplayName": "ronan",
+      "puuid": "3588ed13-e69c-5ef9-870e-7e3c302b86ce",
+      "user": "ronan",
+      "tag": "7222",
+      "score": {
+        "sp": 472,
+        "w": 0,
+        "l": 1
+      },
+      "rank": "Immortal 1",
+      "mmr": 2103
+    },
+    {
+      "discordUsername": "hugeclips",
+      "discordId": "319200386596601858",
+      "discordDisplayName": "Huge",
+      "puuid": "4a3ef6b8-59a4-5050-8ba9-5f3bf488b85f",
+      "user": "Huge",
+      "tag": "Aim",
+      "score": {
+        "sp": 529,
+        "w": 1,
+        "l": 0
+      },
+      "rank": "Ascendant 3",
+      "mmr": 2028
+    },
+
+    {
+      "discordUsername": "milkdrake",
+      "discordId": "308366180626726922",
+      "discordDisplayName": "Milkshake",
+      "puuid": "486f88f1-22d1-52a9-9f1e-11896635a629",
+      "user": "Milkdrake",
+      "tag": "cope",
+      "score": {
+        "sp": 499,
+        "w": 1,
+        "l": 1
+      },
+      "rank": "Gold 1",
+      "mmr": 988
+    },
+    {
+      "discordDisplayName": "CSM Mr.Clean",
+      "discordUsername": "a_dogtheking",
+      "discordId": "587393266983632920",
+      "puuid": "ed0ef3dd-2a1c-5623-a220-28942e3612cc",
+      "user": "CSM ADogTheKing",
+      "tag": "mines",
+      "score": {
+        "sp": 500,
+        "w": 0,
+        "l": 0
+      },
+      "rank": "Ascendant 3",
+      "mmr": 2010
+    },
+
+    {
+      "discordDisplayName": "timeman1621",
+      "discordUsername": "timeman1621",
+      "discordId": "443217303472177170",
+      "puuid": "d60bf315-22ed-58ff-bf20-5587757ac157",
+      "user": "KellofKellogs",
+      "tag": "8059",
+      "score": {
+        "sp": 500,
+        "w": 0,
+        "l": 0
+      },
+      "rank": "Bronze 3",
+      "mmr": 536
+    }
+  ],
+  "mmrDiff": -851
+}
